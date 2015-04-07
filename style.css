@@ -1,14 +1,20 @@
+.navbar-brand{
+    padding: 5px 15px
+}
 h3{ 
     /* fix the top margin for the header*/
     margin-top: 10px;
 }
-.title{
-    background-color:#E1DAD5;
-}
 a:-webkit-any-link{
     text-decoration: none;
 }
-sign-in{
+.sign-in{
     color:#FF0000;
 }
+#navigation li{
+    list-style: none;
+    display: inline;
+    margin: 2em;
+}
+
 
