@@ -1,0 +1,14 @@
+h3{ 
+    /* fix the top margin for the header*/
+    margin-top: 10px;
+}
+.title{
+    background-color:#E1DAD5;
+}
+a:-webkit-any-link{
+    text-decoration: none;
+}
+sign-in{
+    color:#FF0000;
+}
+
