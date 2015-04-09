@@ -22,5 +22,7 @@ a:-webkit-any-link{
     display: inline;
     margin: 2em;
 }
-
-
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
